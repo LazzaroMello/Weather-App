@@ -49,7 +49,7 @@ window.addEventListener('load', () => {
                             temperatureDegree.textContent = Math.floor(celsius);
 
                         } else {
-
+                            
                             temperatureSpan.textContent = 'F';
                             temperatureDegree.textContent = temperature;
 
